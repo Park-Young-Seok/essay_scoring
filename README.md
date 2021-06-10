@@ -1,6 +1,7 @@
-# essay_scoring
+# Essay scoring 문제
+---
 Genessis Lab
-제네시스랩 데이터 과학자 직무 과제
+제목: 제네시스랩 데이터 과학자 직무 과제
 
 
 데이터셋: essay_dataset_encoding.txt
